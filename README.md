@@ -14,7 +14,7 @@ Currently building products at [@diphyx](https://github.com/diphyx) and [@techyd
 
 ## Tech Stack
 
-`Go` `TypeScript` `JavaScript` `Swift` `Vue.js` `Svelte` `Node.js` `PHP` `Shell`
+`Go` `TypeScript`
 
 ## The Journey
 
