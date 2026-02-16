@@ -2,7 +2,7 @@
 
 Full-stack developer specializing in **Go** and **TypeScript**.
 
-Currently building products at [@diphyx](https://github.com/diphyx) and [@techydigital-dev](https://github.com/techydigital-dev).
+Currently building products at [DiPhyx](https://github.com/diphyx) and [Techy Digital](https://github.com/techydigital-dev).
 
 ## What I work on
 
