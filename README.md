@@ -7,7 +7,7 @@ Currently building products at [DiPhyx](https://github.com/diphyx) and [Techy Di
 ## What I work on
 
 - Backend services in Go
-- Frontend applications with TypeScript, Vue/Nuxt, Svelte
+- Frontend applications with TypeScript, Vue/Nuxt
 - VS Code extensions
 - macOS native apps in Swift
 - Developer tooling and automation
